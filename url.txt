@@ -1,0 +1,12 @@
+https://your-app-name-here.streamlit.app/
+
+---
+# Catatan Deployment (Syarat Kelulusan Dicoding):
+1. Buat repository baru di GitHub (akun Anda).
+2. Upload semua file dalam folder `Submission_Analisis Data` ini (termasuk folder `dashboard`, `requirements.txt`, `url.txt`, dan `Proyek_Analisis_Data.ipynb`).
+3. Login ke Streamlit Cloud (share.streamlit.io) menggunakan akun GitHub tersebut.
+4. Klik tombol "New app".
+5. Pilih repository GitHub yang baru saja Anda buat.
+6. Pada bagian "Main file path", ketikkan: `dashboard/dashboard.py`
+7. Klik Deploy.
+8. Setelah berhasil dideploy (mendapat link), timpa baris pertama file url.txt ini dengan link aktif Anda!
